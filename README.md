@@ -1,4 +1,4 @@
-# xelpmocAssign
+# Caclulator(Save and clear)
 1. Folder "assignment1" to be copied into htdocs folder.
 2. SQL file consists of database assignment containing table results.
 3. Import using SQL file attached.
